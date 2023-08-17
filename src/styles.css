@@ -11,6 +11,15 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+a{
+  text-decoration: none;
+  color: steelblue;
+}
+
+a:hover{
+  border-bottom: 1px solid steelblue;
+}
+
 .container {
   max-width: 500px;
   margin: 30px auto;
